@@ -1,0 +1,4 @@
+/* Layout uses logical properties, which automatically follow document direction. */
+body { direction: rtl; }
+.alignleft { float: right; margin: 0 0 1em 1.5em; }
+.alignright { float: left; margin: 0 1.5em 1em 0; }
